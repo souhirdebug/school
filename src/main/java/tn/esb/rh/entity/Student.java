@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 // test1
+//test 2
 @Entity
 @Getter
 @Setter
